@@ -17,6 +17,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Gitter](https://badges.gitter.im/platiagro/community.svg)](https://gitter.im/platiagro/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Known Vulnerabilities](https://snyk.io//test/github/platiagro/projects/badge.svg?targetFile=package.json)](https://snyk.io//test/github/platiagro/projects?targetFile=package.json)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmiguelfferraz%2Fprojects.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmiguelfferraz%2Fprojects?ref=badge_shield)
 
 PlatIAgro Projects management microservice.
 
@@ -178,3 +179,7 @@ curl --location --request PATCH "localhost:3000/projects/a214d8fc-639f-4088-a9fb
     \"position\": 1
 }"
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmiguelfferraz%2Fprojects.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmiguelfferraz%2Fprojects?ref=badge_large)
